@@ -2,8 +2,8 @@
 
 
 
-PERSON1==zakiya
-PERSON2==abbujan
+PERSON1=zakiya
+PERSON2=abbujan
 
 echo "$PERSON1 :: assalamualaikum "
 echo "$PERSON2 :: walaikumsalaam kisa hy maa"
