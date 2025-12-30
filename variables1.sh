@@ -4,8 +4,8 @@
 # no space before or after equal
 
 
-PERSON1=Zakiya
-PERSON2=Abbujan
+PERSON1=Zabiulla
+PERSON2=Ammijan
 
 echo "$PERSON1 :: assalamualaikum $PERSON2"
 echo "$PERSON2 :: walaikumsalaam kisa hy $PERSON1"
