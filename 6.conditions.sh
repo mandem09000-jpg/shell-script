@@ -8,3 +8,4 @@ if [ $NUMBER -lt 10 ]; then
 
 else [ $NUMBER -gt 10 ];
     echo "flase"
+fi
