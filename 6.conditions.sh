@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-NUMBER=10
+
 
 if (
     the given number is less than 10
