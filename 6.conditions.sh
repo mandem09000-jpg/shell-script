@@ -1,13 +1,10 @@
 #!/bin/bash
 
 
+NUMBER=$1
 
-
-if (
-    the given number is less than 10
+if [ $NUMBER -lt 10 ]; then
     echo "true"
-)
-else (
-    the given number is greater than 10
-    echo "false"
-)
+
+else [ $NUMBER -gt 10 ];
+    echo "flase"
